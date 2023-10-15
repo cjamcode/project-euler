@@ -6,18 +6,6 @@ What is the smallest positive number that is evenly divisible by all of
 the numbers from 1 to n?
 */
 
-function factorial(n){
-
-    let factorial_  = 1;
-
-    for(let i = 1; i <= n; i++){
-
-        factorial_ *= i;
-    }
-
-    return factorial_;
-}
-
 function smallestMult(n) {
 
 
