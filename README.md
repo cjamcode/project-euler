@@ -9,3 +9,4 @@
 3. Largest Prime Factor
 4. Largest Palindrome Product
 5. Smallest multiple
+6. Sum square difference
